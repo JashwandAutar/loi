@@ -1,0 +1,48 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    margin: 0px;
+}
+
+main{
+    width: 100vw;
+}
+
+#hoofdtitel{
+    font-size: 72px;
+    width: 50%;
+}
+
+h2{
+    font-size: 18px;
+}
+
+section{
+    width: 100%;
+}
+
+.nieuwstekst{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.derde-van-pagina{
+    width: 33%;
+    padding: 8px;
+}
+
+.special{
+    background-color: rgb(43, 110, 233);
+    border-bottom-left-radius: 20px; 
+    padding: 5px;
+}
+
+.special p{
+    background-color: rgb(236, 239, 244);
+    color: rgb(43, 110, 233);
+    font-size: 48px;
+    padding: 3px 26px 3px 26px;
+}
